@@ -1,6 +1,6 @@
-Olá, o projeto consite em uma tela de login e cadastro para um sistema de academia.
+# Olá, o projeto consite em uma tela de login e cadastro para um sistema de academia.
 
-# Login
+## Login
 Para entrar o Usuário irá precisar informar o seu CPF e sua senha.
 
 ## Cadastro
