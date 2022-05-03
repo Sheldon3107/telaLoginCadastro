@@ -13,16 +13,18 @@ body *{
 .main-login{
     width: 100vw;
     height: 100vh;
-    background-image: url(./img/bg.jpg);
+    background-image: url(./img/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-right: 29.4%;
 }
 
 .left-login{
+    background-color: #000815;
     width: 50vw;
     height: 100vh;
     display: flex;
@@ -36,7 +38,7 @@ body *{
 }
 
 .rigth-login{
-    width: 50vw;
+    width: 100vw;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -44,7 +46,7 @@ body *{
 }
 
 .card-login{
-    width: 85%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -57,6 +59,7 @@ body *{
 .card-login h1{
     color: white;
     margin: 0;
+    padding: 12px;
 }
 
 .textfield{
