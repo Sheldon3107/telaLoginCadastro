@@ -5,3 +5,6 @@ Para entrar o Usuário irá precisar informar o seu CPF e sua senha.
 
 ## Cadastro
 Para se cadastrar o usuário irá precisar informar o seu Nome, Telefone, CPF, Endereço, Nº, Complemento, Bairro, CEP, Cidade, UF e E-mail.
+
+### Final
+A ideia do projeto era fazer somento o front-end, mas acabei desenvolvendo algumas coisas do back-end.
