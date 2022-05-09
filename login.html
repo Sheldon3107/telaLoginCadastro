@@ -19,6 +19,8 @@
 
         <h1>Login</h1>
 
+        <form action="login.php" method="post">
+
         <div class="textfield">
             <label for="usuario">Usuário</label>
             <input type="text" name="usuario" placeholder="Digite o usuário">
@@ -28,10 +30,13 @@
             <label for="Senha">Senha</label>
             <input type="password" name="senha" placeholder="Digite a senha">
         </div>
-
+    
         <div class="btn">
-        <button class="btn-login">Login</button>
-        <button class="btn-cadastro">Cadastro</button>
+        <button class="btn-login" type="submit" value="login">Login</button>
+    </form>
+    
+       <button class="btn-cadastro"><a href="cadastro.html">Cadastro</a></button>
+    
     </div>
 
        </div>
